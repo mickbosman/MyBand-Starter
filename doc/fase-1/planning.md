@@ -22,10 +22,10 @@ Deze planning is een levend document (blijven aanpassen aan de werkelijke situat
 ##### WEEK 2
 |         | ma 13/5 | di 14/5 | wo 15/5 | do 16/5 | vr 17/5 | weekend |
 | ------ |------ | ---- | ------ |---- |------ |---- |
-| 1ste uur | | | | STUDIEDAG | ?????|  |
-| 2de uur  | | | | STUDIEDAG | ????|  |
+| 1ste uur | | | | STUDIEDAG | Planning volledig in orde maken|  |
+| 2de uur  | | | | STUDIEDAG | Planning volledig in orde maken|  |
 | 3de uur  | Planning volledig in orde maken| |?????| STUDIEDAG | |  |
-| 4de uur  | | |???? | STUDIEDAG | |  |
+| 4de uur  | | | Alle pagina's aan maken/ css koppelen enzo| STUDIEDAG | |  |
 | 5de uur  | | | | STUDIEDAG ||  |
 | 6de uur  | | | | STUDIEDAG | |  |
 | 7de uur  | | | | STUDIEDAG | |  |
@@ -34,10 +34,10 @@ Deze planning is een levend document (blijven aanpassen aan de werkelijke situat
 ##### WEEK 3
 |         | ma 20/5 | di 21/5 | wo 22/5 | do 23/5 | vr 24/5 | weekend |
 | ------ |------ | ---- | ------ |---- |------ |---- |
-| 1ste uur | | | | | ????|  |
-| 2de uur  | | | | |???? |  |
-| 3de uur  |??? | | ???| | |  |
-| 4de uur  | | |??? | | |  |
+| 1ste uur | | | | | Beginnen aan de front-end van de site|  |
+| 2de uur  | | | | |Beginnen aan de front-end van de site|  |
+| 3de uur  | Info opzoeken over Ajax | | Info opzoeken over Ajax| | |  |
+| 4de uur  | | | Info opzoeken over Ajax | | |  |
 | 5de uur  | | | | | |  |
 | 6de uur  | | | | | |  |
 | 7de uur  | | | | | |  |
