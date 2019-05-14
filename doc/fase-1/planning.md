@@ -22,9 +22,9 @@ Deze planning is een levend document (blijven aanpassen aan de werkelijke situat
 ##### WEEK 2
 |         | ma 13/5 | di 14/5 | wo 15/5 | do 16/5 | vr 17/5 | weekend |
 | ------ |------ | ---- | ------ |---- |------ |---- |
-| 1ste uur | | | | STUDIEDAG | Planning volledig in orde maken|  |
-| 2de uur  | | | | STUDIEDAG | Planning volledig in orde maken|  |
-| 3de uur  | Planning volledig in orde maken| |?????| STUDIEDAG | |  |
+| 1ste uur | | | | STUDIEDAG | Beginnen aan de website (frontend/css)|  |
+| 2de uur  | | | | STUDIEDAG | Beginnen aan de website (frontend/css)|  |
+| 3de uur  | Planning volledig in orde maken| | Alle pagina's aan maken/ css koppelen enzo| STUDIEDAG | |  |
 | 4de uur  | | | Alle pagina's aan maken/ css koppelen enzo| STUDIEDAG | |  |
 | 5de uur  | | | | STUDIEDAG ||  |
 | 6de uur  | | | | STUDIEDAG | |  |
@@ -47,7 +47,7 @@ Deze planning is een levend document (blijven aanpassen aan de werkelijke situat
 |         | ma 27/5 | di 28/5 | wo 29/5 | do 30/5 | vr 31/5 | weekend |
 | ------ |------ | ---- | ------ |---- |------ |---- |
 | 1ste uur | | | | HEMELVAART | |  |
-| 2de uur  | | | | HEMELVAART | Proberen te beginnen aa nde back-end|  |
+| 2de uur  | | | | HEMELVAART | Proberen te beginnen aan de back-end|  |
 | 3de uur  |Veder met de front-end | |Kijken hoe de back-end werkt | HEMELVAART | |  |
 | 4de uur  | | |Kijken hoe de back-end werkt | HEMELVAART | |  |
 | 5de uur  | | | | HEMELVAART | |  |
@@ -83,11 +83,11 @@ Deze planning is een levend document (blijven aanpassen aan de werkelijke situat
 ##### WEEK 7
 |         | ma 20/5 | di 21/5 | wo 22/5 | do 23/5 | vr 24/5 | weekend |
 | ------ |------ | ---- | ------ |---- |------ |---- |
-| 1ste uur | | | | | Inleveren|  |
-| 2de uur  | | | | |Inleveren |  |
-| 3de uur  |Kijken of alles compleet is| | Dubbel checken| | |  |
-| 4de uur  | | |Kijken of alles compleet is | | |  |
-| 5de uur  | | | | | |  |
-| 6de uur  | | | | | |  |
+| 1ste uur | | | | | Inleveren| Dubbel checken |
+| 2de uur  | | | | |Inleveren |Dubbel checken  |
+| 3de uur  |Kijken of alles compleet is| | Dubbel checken| | | Dubbel checken |
+| 4de uur  | | |Kijken of alles compleet is | | | Dubbel checken |
+| 5de uur  | | | | | | Dubbel checken |
+| 6de uur  | | | | | |  Dubbel checken|
 | 7de uur  | | | | | | Dubbel checken |
-| 8de uur  | | | | | |  |
+| 8de uur  | | | | | | Dubbel checken |
