@@ -46,10 +46,10 @@ Deze planning is een levend document (blijven aanpassen aan de werkelijke situat
 ##### WEEK 4
 |         | ma 27/5 | di 28/5 | wo 29/5 | do 30/5 | vr 31/5 | weekend |
 | ------ |------ | ---- | ------ |---- |------ |---- |
-| 1ste uur | | | | HEMELVAART | ????|  |
-| 2de uur  | | | | HEMELVAART | ?????|  |
-| 3de uur  |????? | |???? | HEMELVAART | |  |
-| 4de uur  | | |???? | HEMELVAART | |  |
+| 1ste uur | | | | HEMELVAART | |  |
+| 2de uur  | | | | HEMELVAART | Proberen te beginnen aa nde back-end|  |
+| 3de uur  |Veder met de front-end | |Kijken hoe de back-end werkt | HEMELVAART | |  |
+| 4de uur  | | |Kijken hoe de back-end werkt | HEMELVAART | |  |
 | 5de uur  | | | | HEMELVAART | |  |
 | 6de uur  | | | | HEMELVAART | |  |
 | 7de uur  | | | | HEMELVAART | |  |
@@ -58,10 +58,10 @@ Deze planning is een levend document (blijven aanpassen aan de werkelijke situat
 ##### WEEK 5
 |         | ma 20/5 | di 21/5 | wo 22/5 | do 23/5 | vr 24/5 | weekend |
 | ------ |------ | ---- | ------ |---- |------ |---- |
-| 1ste uur | | | | | ????|  |
-| 2de uur  | | | | |???? |  |
-| 3de uur  |??? | | ???| | |  |
-| 4de uur  | | |??? | | |  |
+| 1ste uur | | | | |Alles van de back-end mooi in de frontend zetten/css.|  |
+| 2de uur  | | | | |Alles van de back-end mooi in de frontend zetten/css.|  |
+| 3de uur  |Werken aan de back-end | | Werken aan de back-end| | |  |
+| 4de uur  | | |Werken aan de back-end | | |  |
 | 5de uur  | | | | | |  |
 | 6de uur  | | | | | |  |
 | 7de uur  | | | | | |  |
@@ -70,10 +70,10 @@ Deze planning is een levend document (blijven aanpassen aan de werkelijke situat
 ##### WEEK 6
 |         | ma 10/6 | di 11/6 | wo 12/6 | do 13/6 | vr 14/6 | weekend |
 | ------ |------ | ---- | ------ |---- |------ |---- |
-| 1ste uur | | | | GEEN LES | ?????|  |
-| 2de uur | | | | | ?????|  |
-| 3de uur | ????| |??? | | |  |
-| 4de uur | | | ????| | |  |
+| 1ste uur | | | | GEEN LES | Debuggen|  |
+| 2de uur | | | | | Debuggen|  |
+| 3de uur | Debuggen| |Puntjes op de i| | |  |
+| 4de uur | | | Puntjes op de i| | |  |
 | 5de uur | | | | | |  |
 | 6de uur | | | | | |  |
 | 7de uur | | | | | |  |
@@ -83,11 +83,11 @@ Deze planning is een levend document (blijven aanpassen aan de werkelijke situat
 ##### WEEK 7
 |         | ma 20/5 | di 21/5 | wo 22/5 | do 23/5 | vr 24/5 | weekend |
 | ------ |------ | ---- | ------ |---- |------ |---- |
-| 1ste uur | | | | | ????|  |
-| 2de uur  | | | | |???? |  |
-| 3de uur  |??? | | ???| | |  |
-| 4de uur  | | |??? | | |  |
+| 1ste uur | | | | | Inleveren|  |
+| 2de uur  | | | | |Inleveren |  |
+| 3de uur  |Kijken of alles compleet is| | Dubbel checken| | |  |
+| 4de uur  | | |Kijken of alles compleet is | | |  |
 | 5de uur  | | | | | |  |
 | 6de uur  | | | | | |  |
-| 7de uur  | | | | | |  |
+| 7de uur  | | | | | | Dubbel checken |
 | 8de uur  | | | | | |  |
