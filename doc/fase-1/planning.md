@@ -36,8 +36,8 @@ Deze planning is een levend document (blijven aanpassen aan de werkelijke situat
 | ------ |------ | ---- | ------ |---- |------ |---- |
 | 1ste uur | | | | | Beginnen aan de front-end van de site|  |
 | 2de uur  | | | | |Beginnen aan de front-end van de site|  |
-| 3de uur  | Info opzoeken over Ajax | | Info opzoeken over Ajax| | |  |
-| 4de uur  | | | Info opzoeken over Ajax | | |  |
+| 3de uur  | Info opzoeken over Barcelona | | Info opzoeken over Barcelona| | |  |
+| 4de uur  | | | Info opzoeken over Barcelona | | |  |
 | 5de uur  | | | | | |  |
 | 6de uur  | | | | | |  |
 | 7de uur  | | | | | |  |
