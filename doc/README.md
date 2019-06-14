@@ -1,18 +1,3 @@
 # Documentatie
 
-In deze directory zet je per week al je project documentatie:
-
-- Debriefing
-- Project plan
-- User stories
-- Functioneel ontwerp + wireframes
-- Technisch ontwerp
-- Ontwerpen documenten
-- Flowcharts / Wirefframes
-- Schermontwerpen
-- (Sprint) planning / Logboek
-- etc. etc.
-
-Lees het document [README] in de hoofdmap van dit project voor een overzicht.
-
-[README]: <../README.md>  
+Ik heb ervoor gekozen om weinig met de databases te werken. Dit was wel de opdracht. Maar ik ben van mening dat ik een super mooie site kan neer zetten zonder gebruik te maken van databeses.
