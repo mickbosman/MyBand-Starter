@@ -29,7 +29,6 @@
       <a href="trophies.html">
         <div class="pie pie3" onclick="document.body.classList.remove('active')">
           <div class="pie-color pie-color3">
-
           </div>
         </div>
       </a>
@@ -49,14 +48,89 @@
               </svg>
         </div>
 
-<div class="trophie_1">
-  <img src="afbeeldingen/trophie_1.png">
-<h2>1991-92, </h2>
-<h2>2005-06, </h2>
-<h2>2008-09,</h2>
-<h2>2010-11, </h2>
-<h2>2014-15</h2>
+<div class="trophies">
+
+<div class="trophy_1">
+  <img src="afbeeldingen/trophy_1.png">
+  <h2>Champions League</h2>
+<h3>1991-92,</h3>
+<h3>2005-06,</h3>
+<h3>2008-09,</h3>
+<h3>2010-11,</h3>
+<h3>2014-15</h3>
 </div>
 
+<div class="trophy_2">
+  <img src="afbeeldingen/trophy_2.png">
+  <h2>FIFA Club World Cup</h2>
+<h3>2009-10,</h3>
+<h3>2011-12,</h3>
+<h3>2015-16</h3>
+</div>
+
+<div class="trophy_3">
+  <img src="afbeeldingen/trophy_3.gif">
+  <h2>European Cup Winners' Cup</h2>
+<h3>1978-79,</h3>
+<h3>1981-82,</h3>
+<h3>1988-89,</h3>
+<h3>1996-97</h3>
+</div>
+
+<div class="trophy_4">
+  <img src="afbeeldingen/trophy_4.png">
+  <h2>Fairs Cup</h2>
+<h3>1957-58,</h3>
+<h3>1959,60,</h3>
+<h3>1965-66</h3>
+</div>
+
+
+<div class="trophy_5">
+  <img src="afbeeldingen/trophy_5.png">
+  <h2>European Super Cup</h2>
+<h3>1992-93,</h3>
+<h3>1997-98,</h3>
+<h3>2009-10,</h3>
+<h3>2011-12,</h3>
+<h3>2015-16</h3>
+</div>
+
+<div class="trophy_6">
+  <img src="afbeeldingen/trophy_6.png">
+  <h2>Latin Cup</h2>
+<h3>1948-49,</h3>
+<h3>1951-52,</h3>
+</div>
+
+<p><div class="trophy_7">
+  <img src="afbeeldingen/trophy_6.png">
+  <h2>Spanish League Championship</h2>
+<h3>1928-29,</h3>
+<h3>1944-45,</h3>
+<h3>1947-48,</h3>
+<h3>1948-49,</h3>
+<span id="dots"></span><span id="more">1951-52, 1952-53, 1958-59, 1959-60, 1973-74,
+   1984-85, 1990-91, 1991-92, 1992-93, 1993-94, 1997-98, 1998-99, 2004-05, 2005-06, 2008-09, 2009-10, 2010-11, 2012-13, 2014-15, 2015-16, 2017-18, 2018-19</span></p>
+<button onclick="myFunction()" id="myBtn">Read more</button>
+<script> function myFunction() {
+  var dots = document.getElementById("dots");
+  var moreText = document.getElementById("more");
+  var btnText = document.getElementById("myBtn");
+
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Read more";
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.innerHTML = "Read less";
+    moreText.style.display = "inline";
+  }
+}
+</script>
+</div>
+
+</div>
   </body>
 </html>
