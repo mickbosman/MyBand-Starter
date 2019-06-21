@@ -7,12 +7,13 @@ body {
  background-attachment: fixed;
  background-size: cover;
 }
+
 .wrapper {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   grid-gap: 1em;
   padding: 1.2em;
-  justify-items: center;
+  position: relative;
 }
 
 .wrapper .content {
@@ -54,6 +55,7 @@ label {
   display: grid;
   justify-items: center;
   align-items: center;
+  position:fixed;
 }
 
 .hiddenContent {
@@ -93,25 +95,6 @@ label {
 article {
   color: rgba(255, 187, 51, 0.8);
   cursor: default;
-}
-
-.password {
-  margin-left: 26.5px;
-}
-
-.password2 {
-  margin-left: 57.5px;
-}
-
-.username {
-  margin-left: 31px;
-}
-
-#logButton {
-  margin-left: 216px;
-}
-#regButton {
-  margin-left: 222.5px;
 }
 
 /* menu */
