@@ -1,9 +1,117 @@
+@import "https://fonts.googleapis.com/css?family=Play";
+
 body {
   background-image: url("afbeeldingen/achtergrond.jpg");
  background-position: center center;
  background-repeat: no-repeat;
  background-attachment: fixed;
  background-size: cover;
+}
+.wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-gap: 1em;
+  padding: 1.2em;
+  justify-items: center;
+}
+
+.wrapper .content {
+  display: none;
+}
+
+label {
+  color: rgba(255, 187, 51, 0.8);
+}
+
+.wrapper img.mButton {
+  max-width: 220px;
+  transition: transform .3s ease-out, box-shadow .4s ease-out;
+}
+
+.wrapper img.mButton:hover {
+  transform: scale(1.1);
+  box-shadow: .5em .5em 2em white;
+}
+
+.cover {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  max-width: 80vw;
+  grid-gap: 1.5em;
+}
+
+.grid img {
+  max-width: 100%;
+}
+
+.contentBackground {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0);
+  display: grid;
+  justify-items: center;
+  align-items: center;
+}
+
+.hiddenContent {
+  max-width: 80%;
+  padding: 2em;
+  border-radius: 6px;
+  background-color: rgb(51, 51, 51);
+  display: grid;
+  grid-template-rows: auto 1fr;
+  grid-row-gap: 1em;
+  animation: reveal 1s ease-in-out;
+  border: solid;
+  border-color: darkred;
+}
+
+@keyframes reveal {
+  0% {transform: scale(0)}
+  100% {transform: scale(1)}
+}
+
+
+.exitButton {
+  width: 3em;
+  justify-self: end;
+  cursor: pointer;
+  font-size: 2em;
+  font-weight: 900;
+  background-color: rgb(51, 51, 51);
+  transform: translateX(.5em);
+  border: 0;
+  color: rgba(255, 187, 51, 0.5);
+}
+.exitButton:hover {
+  color: red;
+}
+
+article {
+  color: rgba(255, 187, 51, 0.8);
+  cursor: default;
+}
+
+.password {
+  margin-left: 26.5px;
+}
+
+.password2 {
+  margin-left: 57.5px;
+}
+
+.username {
+  margin-left: 31px;
+}
+
+#logButton {
+  margin-left: 216px;
+}
+#regButton {
+  margin-left: 222.5px;
 }
 
 /* menu */
@@ -128,133 +236,8 @@ body {
   width: 10%;
 }
 
-.trophies {
-  color: 	#F0FFFF;
-text-shadow: 1px 1px red;
-}
-
-.trophies img {
-  width: 100%;
-}
-
-.trophy_1 {
-  border: solid;
-  border-color: darkblue;
-  border-radius: 10px;
-  width: 20%;
-  margin-left: 25%;
-  margin-top: 10%;
+.positions {
   text-align: center;
-}
-
-.trophy_2 {
-  border: solid;
-  border-color: darkblue;
-  border-radius: 10px;
-  width: 20%;
-  margin-left: 60%;
-  margin-top: -26.5%;
-  text-align: center;
-}
-
-.trophy_3 {
-  border: solid;
-  border-color: darkblue;
-  border-radius: 10px;
-  width: 20%;
-  margin-left: 25%;
-  margin-top: 10%;
-  text-align: center;
-}
-
-.trophy_4 {
-  border: solid;
-  border-color: darkblue;
-  border-radius: 10px;
-  width: 20%;
-  margin-left: 60%;
-  margin-top: -29.5%;
-  text-align: center;
-}
-
-.trophy_5 {
-  border: solid;
-  border-color: darkblue;
-  border-radius: 10px;
-  width: 20%;
-  margin-left: 25%;
-  margin-top: 15%;
-  text-align: center;
-}
-
-.trophy_6 {
-  border: solid;
-  border-color: darkblue;
-  border-radius: 10px;
-  width: 20%;
-  margin-left: 60%;
-  margin-top: -26.5%;
-  text-align: center;
-}
-
-#more {display: none;}
-
-.trophy_7 {
-  border: solid;
-  border-color: darkblue;
-  border-radius: 10px;
-  width: 20%;
-  margin-left: 25%;
-  margin-top: 15%;
-  text-align: center;
-}
-
-.trophy_8 {
-  border: solid;
-  border-color: darkblue;
-  border-radius: 10px;
-  width: 20%;
-  margin-left: 60%;
-  margin-top: -30%;
-  text-align: center;
-}
-
-.trophy_9 {
-  border: solid;
-  border-color: darkblue;
-  border-radius: 10px;
-  width: 20%;
-  margin-left: 25%;
-  margin-top: 14%;
-  text-align: center;
-}
-
-.trophy_10 {
-  border: solid;
-  border-color: darkblue;
-  border-radius: 10px;
-  width: 20%;
-  margin-left: 60%;
-  margin-top: -25%;
-  text-align: center;
-}
-
-.trophy_11 {
-  border: solid;
-  border-color: darkblue;
-  border-radius: 10px;
-  width: 20%;
-  margin-left: 25%;
-  margin-top: 13%;
-  text-align: center;
-}
-
-.trophy_12 {
-  border: solid;
-  border-color: darkblue;
-  border-radius: 10px;
-  width: 20%;
-  margin-left: 60%;
-  margin-top: -28%;
-  text-align: center;
+  font-size: 200%;
+  color:  #80bfff;
 }
